@@ -1,7 +1,7 @@
-# Better Held Appliances
+# BetterHeldAppliances
 
 ## Description
 
 ## Requirements
 
-- KitchenLib >= 0.5.2
+- KitchenLib >= 0.3.8
